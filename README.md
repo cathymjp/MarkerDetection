@@ -5,7 +5,7 @@ A Study on Marker-Based Object Detection Method of Object Position Using Perspec
 
 ## Environment
 * Python3
-* 2019. ~ 2021.2.14
+* 2019.5 ~ 2021.2.14
 
 ### visual results
 * Case example visual results as an aid for understanding the process
