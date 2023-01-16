@@ -1,6 +1,6 @@
-# Research Project
+# Marker Detection
 
-A Study on Marker-Based Object Detection Method of Object Position Using Perspective Projection
+A Study on Marker-Based Object Detection Method of Object Position Using Perspective Projection (Research Project)
 - Journal of Information and Communication Convergence Engineering (JICCE) 2022; 20(1); 65-72
 
 ## Environment
